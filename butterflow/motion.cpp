@@ -3,7 +3,7 @@
 #include <Python.h>
 #include <opencv2/core/core.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
-#include <opencv2/ocl/ocl.hpp>
+#include <opencv2/core/ocl.hpp>
 #include <opencv2/video/tracking.hpp>
 #include "opencv-ndarray-conversion/conversion.h"
 
